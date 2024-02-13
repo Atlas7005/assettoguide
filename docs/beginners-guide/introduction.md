@@ -13,4 +13,4 @@ The Beginner's Guide is crafted to be your comprehensive, accessible entryway in
 
 A lot of what is covered in this guide, is also covered in this video guide by [Assetto Corsa Club](https://assettocorsa.club/). It's a great resource, if you prefer video content over text.
 
-<iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/eour5cDFF84?si=rMxEnxSQ2_rwbihk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/eour5cDFF84?si=rMxEnxSQ2_rwbihk" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
