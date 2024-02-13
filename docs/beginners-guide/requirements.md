@@ -18,7 +18,7 @@ To run Assetto Corsa and its mods, you'll need a decent gaming PC. Here's a roug
 - **RAM:** 16 GB DDR4.
 
 Along with that, we also need a game pad of some sort. A controller is barely usable, but a wheel is highly recommended.  
-A good starter wheel is the [Thrustmaster T300RS GT Edition](https://www.google.com/search?q=thrustmaster+t300rs+gt+edition), which is an amazing wheel. A more budget option is the Logitech G29, but it has less [Force Feedback](/docs/terminology#force-feedback) and performs worse, especially during drifting.
+A good starter wheel is the [Thrustmaster T300RS GT Edition](https://www.google.com/search?q=thrustmaster+t300rs+gt+edition), which is an amazing wheel. A more budget option is the [Logitech G29](https://www.google.com/search?q=Logitech+G29), but it has less [Force Feedback](/docs/terminology#force-feedback) and performs worse, especially during drifting.
 
 ## Software
 
