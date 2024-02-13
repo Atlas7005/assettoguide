@@ -21,6 +21,9 @@ The free version of CSP can be downloaded from inside Content Manager. Simply op
 
 There is also a paid preview version of CSP that can be purchased from the [CSP Patreon page](https://www.patreon.com/x4fab). The preview version includes rain and is updated more frequently.  
 This version can be installed by downloading the zip file from the Patreon page and extracting it to the Assetto Corsa installation folder, or by using the Quick install link on the latest release post.
+:::info
+If you have the full version of Content Manager, you can install mods by simply dragging and dropping the zip file into the Content Manager window, and opening the hamburger menu in the top right corner and selecting `Install`.
+:::
 
 ## Enabling Rain
 

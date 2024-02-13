@@ -30,7 +30,8 @@ This should be the Steam account that has Assetto Corsa in their library.
 
 ### What's your name?
 
-:::tip[This can always be changed later]
+:::tip
+This can always be changed later
 :::
 This is the online name, that other players will see. Since Assetto Corsa doesn't use your Steam details, this needs to be set manually.
 
